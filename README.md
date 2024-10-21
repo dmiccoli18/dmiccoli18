@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dmiccoli18
-- 👀 I’m interested in digital signal processing, computational physics, software development, and data science
+- 👀 I’m interested in digital signal processing, computational physics, (audio) software development, and data science
 - 🌱 I’m currently learning BASH/Linux and currently relearning SQL
 - 💞️ I’m looking to collaborate on anything under the interests page!
 - 📫 How to reach me ...
